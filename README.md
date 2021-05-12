@@ -3,3 +3,7 @@
 ### sub3
 
 Hi~ 
+
+### python code
+
+'''python
