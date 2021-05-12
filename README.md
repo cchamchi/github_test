@@ -6,4 +6,4 @@ Hi~
 
 ### python code
 
-![day-1](
+![day-1](https://github.com/cchamchi/github_test/blob/main/day1.jpeg)
